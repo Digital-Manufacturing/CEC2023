@@ -1,17 +1,15 @@
 
-##IEEE CEC2023 Call for Paper -  Special Session on Computational Intelligence and Man-Machine Collaboration (CIMMC)##
+# IEEE CEC2023 Call for Paper -  Special Session on Computational Intelligence and Man-Machine Collaboration (CIMMC) 
 
 https://github.com/Digital-Manufacturing/CEC2023 
 
-2023 IEEE Congress on Evolutionary Computation
+2023 IEEE Congress on Evolutionary Computation, Chicago, USA,  July 2-5, 2023 
 
 https://2023.ieee-cec.org 
 
 **Title**
 
 *Computational Intelligence and Man-Machine Collaboration (CIMMC)
-
-*Chicago, USA,  July 2-5, 2023 
 
 **Special session abstract**
 Man-Machine Collaboration, Human Rehabilitation and Enhancement are significant concerns for current and future industrial development and human quality of life. In this session, we aim to collect original research and review papers on the application of computational intelligence technologies in Human Rehabilitation, Enhancement and Human-Machine Collaboration. The submitted materials shall include original theory, experiment, numerical simulation, or case study to help understand the progress and innovation in this research field.
