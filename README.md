@@ -85,6 +85,10 @@ https://2023.ieee-cec.org/registration/
 
 *Qi Shuai, Chongqing University, China, qishuai@cqu.edu.cn
 
+*Don McGlinchey, Glasgow Caledonian University, UK, d.mcglinchey@gcu.ac.uk
+
+*Ibrahim Kucukdemiral, Glasgow Caledonian University, UK, Ibrahim.Kucukdemiral@gcu.ac.uk
+
 ***
 ![](https://github.com/Digital-Manufacturing/CEC2023/blob/main/Logo_New.jpg)
 
